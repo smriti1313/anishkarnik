@@ -2,7 +2,7 @@
 - 👀 I’m interested in printf("learning different languages and understanding more about computers, systems and related stuff.")
 - 🌱 I’m currently learning printf("C, Python")
 - 💞️ I’m looking for printf("A good active community in order to speed up my progress")
-- 📫 How to reach me printf("anishkarnik32@gmail.com")
+- 📫 How to reach me printf("anishkarnik32@gmail.com") 
 
 <!---
 anishkarnik/anishkarnik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
