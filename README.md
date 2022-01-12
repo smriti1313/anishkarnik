@@ -5,7 +5,7 @@
 - 📫 How to reach me printf("anishkarnik32@gmail.com") 
 ------------------
 - 💞️ I’m looking for printf("future")
-- 📫 How to reach me printf("git.org.in") 
+- 📫 How to reach me printf("org.in") 
 ------------------
 <!---
 anishkarnik/anishkarnik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
